@@ -1,0 +1,20 @@
+{
+  "name": "clawxpose-app",
+  "version": "1.0.0",
+  "description": "Minimal production-friendly Node.js starter application scaffold",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test",
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://localhost:26831/jecinthacodes/clawxpose-app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "module",
+  "private": true
+}
